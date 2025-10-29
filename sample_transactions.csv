@@ -1,0 +1,4 @@
+transaction_id,product,demand
+1,ProductA,120
+2,ProductB,80
+3,ProductC,150

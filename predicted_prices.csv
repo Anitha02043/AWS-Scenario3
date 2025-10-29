@@ -1,0 +1,6 @@
+transaction_id,product,demand,predicted_price
+1,ProductA,120,190
+2,ProductB,80,160
+3,ProductC,150,212.5
+4,ProductD,60,145
+5,ProductE,200,250
